@@ -8,7 +8,7 @@ def main():
     # Keep track of when (and if) we enter the basement
     basement = None
 
-    # read the input from standard input
+    # Read the input from standard input
     inp = sys.stdin.read()
 
     # i is a standard variable name used for 'index'

@@ -9,11 +9,11 @@ http://adventofcode.com/about
 
 What is this repository?
 ------------------------
-This repository includes *solutions* to the problems for Advent of Code.
+This repository includes **solutions** to the problems for Advent of Code.
 I am including the solutions with detailed comments here to help see how
 a professional software developer may go about solving these problems.
 
-*Before looking at the answers, try to find the solution yourself.*
+**Before looking at the answers, try to find the solution yourself.**
 
 Learning how to code is all about making mistakes, banging your head in
 frustration, and perserverance. But learning how to code is also about
@@ -40,6 +40,6 @@ initial problem and the expanded problem.
 The Python solution has a `.py` extension while the Ruby solution has a
 `.rb` extension.
 
-There is an `input.txt` file in every directory. This is the input *I*
+There is an `input.txt` file in every directory. This is the input **I**
 received when solving the problem. It is included just to show how the
 program works.
